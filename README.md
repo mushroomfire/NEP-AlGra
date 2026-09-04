@@ -1,6 +1,6 @@
 # Al/Gra NEP Potential
 
-This repository provides a general-purpose machine-learned interatomic potential for Al/graphene/$Al_4C_3$ nanolayered system based on the Neuroevolution Potential (NEP) framework. The potential has been extensively validated against key physical properties, including lattice constants, elastic constants, equations of state, phonon dispersions, interfacial interactions, and tensile strengths, showing excellent agreement with both DFT and experimental results.
+This repository provides a general-purpose machine-learned interatomic potential for Al/graphene/Al4C3 nanolayered system based on the Neuroevolution Potential (NEP) framework. The potential has been extensively validated against key physical properties, including lattice constants, elastic constants, equations of state, phonon dispersions, interfacial interactions, and tensile strengths, showing excellent agreement with both DFT and experimental results.
 
 ## Repository Structure
 
